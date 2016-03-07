@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="usuario">Usuario: </string>
+    <string name="contraseña">Contraseña: </string>
+    <string name="repetir">Repetir: </string>
+    <string name="correo">Correo Electronico: </string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="tv">Ver TV</string>
+    <string name="estudiar">Estudiar</string>
+    <string name="otro">Otros</string>
+    <string name="comer">Comer</string>
+    <string name="fecha">Fecha de Nacimiento: </string>
+</resources>
